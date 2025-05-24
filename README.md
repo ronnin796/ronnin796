@@ -1,8 +1,9 @@
 # 💫 About Me:
-<h1 align="center">
-  <img src="media/madd.gif" width="30px"/>
+
   Hey there, I'm Nischal!
-</h1>
+  <br>
+  [!Codingg] (media/madd.gif)
+
 <br>Python Developer • AI Enthusiast • Nature & Anime Lover<br><br>🎓 Engineer Student | Self-taught developer 
 <br> ![Coding Life](media/madd.gif)
 
