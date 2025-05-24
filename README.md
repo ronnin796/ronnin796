@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Nischal<br>Full-stack Developer • AI Enthusiast • Nature & Anime Lover<br><br>🎓 Engineer Student | Self-taught developer  <br>💻 Passionate about AI/ML, full-stack web apps  <br>🧠 Currently learning: Django REST + ML + MLOps  <br>🍃 Into gaming, anime, nature walks, and late-night coding  <br>
+👋 Hey there! I'm Nischal<br>Python Developer • AI Enthusiast • Nature & Anime Lover<br><br>🎓 Engineer Student | Self-taught developer  <br>💻 Passionate about AI/ML, full-stack web apps  <br>🧠 Currently learning: Django REST + ML + MLOps  <br>🍃 Into gaming, anime, nature walks, and late-night coding  <br>
 
 
 ## 🌐 Socials:
