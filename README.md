@@ -1,8 +1,7 @@
 # 💫 About Me:
 
   Hey there, I'm Nischal!
-  <br>
-  [!Codingg] (media/madd.gif)
+  
 
 <br>Python Developer • AI Enthusiast • Nature & Anime Lover<br><br>🎓 Engineer Student | Self-taught developer 
 <br> ![Coding Life](media/madd.gif)
