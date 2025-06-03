@@ -3,7 +3,7 @@
   👋 Hey there, I'm Nischal!
   
 
-<br>Python Developer • AI Enthusiast • Nature & Anime Lover<br><br>🎓 Engineer Student | Self-taught developer 
+<br>Python Developer • AI Enthusiast •  Anime and Video game nerd<br><br> 
 <br> ![Coding Life](media/madd.gif)
 
 
