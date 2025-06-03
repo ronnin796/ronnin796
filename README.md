@@ -8,8 +8,8 @@
 
 
 🎓 Engineering Student | Self-taught developer  
-💻 Passionate about AI/ML, full-stack web apps  
-🧠 Currently learning: Django REST + React + MLOps  
+💻 Passionate about AI/ML   
+🧠 Currently learning: Django REST  + MLOps  
 👾 Into anime, gaming, and late-night coding  
 
 
