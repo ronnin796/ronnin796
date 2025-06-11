@@ -9,7 +9,7 @@
 
 🎓 Engineering Student | Self-taught developer  
 💻 Passionate about AI/ML   
-🧠 Currently learning: Django REST  + MLOps  
+🧠 Currently learning: Django REST  +Tensorflow + MLOps  
 👾 Into anime, gaming, and late-night coding  
 
 
