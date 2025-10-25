@@ -19,7 +19,7 @@ Here are some projects that reflect my hands-on learning:
 
 - **Predictly** – House Price Prediction using Linear Regression, Ridge, XGBoost  
 - **Inventory Alert System** – Django app with ARIMA forecasting and Celery alerts  
-- **Expense Tracker** – Tailwind + Django app for managing shared expenses  
+
 
 *(More projects coming as I continue to learn and experiment…)*
 
