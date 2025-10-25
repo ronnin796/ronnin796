@@ -1,16 +1,16 @@
 # 💫 Hi, I'm Nischal Chaudhary
 
-🎓 Engineering Student | Aspiring AI/ML & Backend Engineer  
-💻 Focused on Machine Learning, Data Science, and Model Deployment
-🧠 Currently learning: Django REST Framework, TensorFlow, PyTorch, MLOps, and Deployment  
+🎓 Engineering Student | Aspiring AI/ML & Backend Engineer   
+💻 Currently focused on Machine Learning & Deep Learning  
+🧠 Currently learning: Classical ML algorithms, Deep Learning with TensorFlow, basic Django REST APIs (using serializers)   
 
 ---
 
-## 🚀 My Focus Areas
-- **Machine Learning & AI**: Regression, Classification, Ensemble Models, Deep Learning  
-- **Backend Development**: Django, Django REST Framework, PostgreSQL  
-- **MLOps & Deployment**: Docker, Kubernetes, Cloud Deployment  
-- **Data Handling**: Pandas, NumPy, Data Cleaning, Model Evaluation  
+## 🚀 Current Focus
+- **Machine Learning & AI**: Classical ML algorithms (Regression, Classification, Ensemble Models), Neural Networks, Deep Learning  
+- **Backend Basics**: Django REST APIs (serializers, basic CRUD operations)  
+- **Future Plans**: FastAPI for lightweight ML apps,  Docker & Cloud deployment, MLOps   , Go for AI infrastructures
+
 
 ---
 
@@ -37,6 +37,11 @@ Here are some projects that reflect my hands-on learning:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
 
 ---
 
