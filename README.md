@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Nischal Chaudhary
 
 🎓 Engineering Student | Aspiring AI/ML & Backend Engineer  
-💻 Focused on Machine Learning, Data Science, and Scalable Web Apps  
+💻 Focused on Machine Learning, Data Science, and Model Deployment
 🧠 Currently learning: Django REST Framework, TensorFlow, PyTorch, MLOps, and Deployment  
 
 ---
