@@ -20,7 +20,13 @@ Here are some projects that reflect my hands-on learning:
 - **Predictly** – House Price Prediction using Linear Regression, Ridge, XGBoost  
 - **Inventory Alert System** – Django app with ARIMA forecasting and Celery alerts
 
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://catdogclassifier23.streamlit.app/)
+# 🐱🐶 Cat vs Dog Classifier
+
+A simple CNN-based image classifier built with TensorFlow and deployed using Streamlit.
+
+🚀 **[Live Demo](https://catdogclassifier23.streamlit.app/)**  
+📂 **[View Source Code](https://github.com/yourusername/CNN-Cat-and-Dog-classifier-)**
+
 
 
 
