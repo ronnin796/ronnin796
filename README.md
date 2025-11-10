@@ -18,7 +18,10 @@
 Here are some projects that reflect my hands-on learning:
 
 - **Predictly** – House Price Prediction using Linear Regression, Ridge, XGBoost  
-- **Inventory Alert System** – Django app with ARIMA forecasting and Celery alerts  
+- **Inventory Alert System** – Django app with ARIMA forecasting and Celery alerts
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://catdogclassifier23.streamlit.app/)
+
 
 
 *(More projects coming as I continue to learn and experiment…)*
