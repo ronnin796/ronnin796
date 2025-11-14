@@ -1,15 +1,12 @@
 # 💫 Hi, I'm Nischal Chaudhary
 
-🎓 Engineering Student | Aspiring AI/ML & Backend Engineer   
-💻 Currently focused on Machine Learning & Deep Learning  
-🧠 Currently learning: Classical ML algorithms, Deep Learning with TensorFlow, basic Django REST APIs (using serializers)   
-
+🎓 Engineering Student | Aspiring AI/ML Engineer   
+🧠 Currently learning: Classical ML algorithms, Deep Learning with TensorFlow
 ---
 
 ## 🚀 Current Focus
-- **Machine Learning & AI**: Classical ML algorithms (Regression, Classification, Ensemble Models), Neural Networks, Deep Learning  
-- **Backend Basics**: Django REST APIs (serializers, basic CRUD operations)  
-- **Future Plans**: FastAPI for lightweight ML apps,  Docker & Cloud deployment, MLOps   , Go for AI infrastructures
+- **Machine Learning & AI**: Classical ML algorithms (Regression, Classification, Ensemble Models), Neural Networks, Deep Learning   
+- **Future Plans**: FastAPI for lightweight ML apps,  Docker & Cloud deployment, MLOps   
 
 
 ---
@@ -38,18 +35,15 @@ A simple CNN-based image classifier built with TensorFlow and deployed using Str
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)   
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+
 
 ---
 
