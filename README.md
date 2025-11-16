@@ -14,9 +14,6 @@
 ## 💻 Projects (Learning Phase)
 Here are some projects that reflect my hands-on learning:
 
-- **Predictly** – House Price Prediction using Linear Regression, Ridge, XGBoost  
-- **Inventory Alert System** – Django app with ARIMA forecasting and Celery alerts
-
 # 🐱🐶 Cat vs Dog Classifier
 
 A simple CNN-based image classifier built with TensorFlow and deployed using Streamlit.
