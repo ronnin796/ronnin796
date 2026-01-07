@@ -3,7 +3,7 @@
 🎓 Engineering Student | Aspiring AI/ML Engineer   
 🧠 Currently learning: Classical ML algorithms, Deep Learning with TensorFlow
 ---
-
+I’m an effort-driven learner who grows by doing, breaking things, and figuring out how to fix them (sometimes the hard way). Always looking to be better than myself — let’s grow together🌱.
 ---
 
 ## 💻 Projects
