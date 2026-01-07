@@ -4,14 +4,9 @@
 🧠 Currently learning: Classical ML algorithms, Deep Learning with TensorFlow
 ---
 
-## 🚀 Current Focus
-- **Machine Learning & AI**: Classical ML algorithms (Regression, Classification, Ensemble Models), Neural Networks, Deep Learning   
-- **Future Plans**: FastAPI for lightweight ML apps,  Docker & Cloud deployment, MLOps   
-
-
 ---
 
-## 💻 Projects (Learning Phase)
+## 💻 Projects
 Here are some projects that reflect my hands-on learning:
 
 # 🐱🐶 Cat vs Dog Classifier
@@ -20,9 +15,6 @@ A simple CNN-based image classifier built with TensorFlow and deployed using Str
 
 🚀 **[Live Demo](https://catdogclassifier23.streamlit.app/)**  
 📂 **[View Source Code](https://github.com/ronnin796/CNN-Cat-and-Dog-classifier-)**
-
-
-
 
 *(More projects coming as I continue to learn and experiment…)*
 
