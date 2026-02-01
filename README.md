@@ -2,7 +2,7 @@
 
 🎓 Engineering Student | Aspiring AI/ML Engineer   
 ---
-I’m an effort-driven learner who grows by doing, breaking things, and figuring out how to fix them (sometimes the hard way). Always looking to be better than myself — let’s grow together🌱.
+I’m an effort-driven learner who grows by building, breaking things, and understanding how to fix them. I believe in continuous improvement through hands-on experience..
 ---
 
 ## 💻 Projects
