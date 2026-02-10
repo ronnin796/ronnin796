@@ -5,20 +5,6 @@
 I’m an effort-driven learner who grows by building, breaking things, and understanding how to fix them. I believe in continuous improvement through hands-on experience..
 ---
 
-## 💻 Projects
-Here are some projects that reflect my hands-on learning:
-
-# 🐱🐶 Cat vs Dog Classifier
-
-A simple CNN-based image classifier built with TensorFlow and deployed using Streamlit.
-
-🚀 **[Live Demo](https://catdogclassifier23.streamlit.app/)**  
-📂 **[View Source Code](https://github.com/ronnin796/CNN-Cat-and-Dog-classifier-)**
-
-*(More projects coming as I continue to learn and experiment…)*
-
----
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
