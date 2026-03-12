@@ -2,7 +2,15 @@
 
 🎓 Engineering Student | Aspiring AI/ML Engineer   
 ---
-I’m an effort-driven learner who grows by building, breaking things, and understanding how to fix them. I believe in continuous improvement through hands-on experience..
+Areas of Interest
+
+Backend Development
+
+AI / Machine Learning
+
+Automation
+
+Systems Programming
 ---
 
 ## 🛠 Tech Stack
