@@ -1,16 +1,16 @@
 # 💫 Hi, I'm Nischal Chaudhary
 
-🎓 Engineering Student | Aspiring AI/ML Engineer   
+🎓 Engineering Student | Aspiring AI/ML Engineer
+
 ---
-Areas of Interest
 
-Backend Development
+## Areas of Interest
 
-AI / Machine Learning
+* Backend Development
+* AI / Machine Learning
+* Automation
+* Systems Programming
 
-Automation
-
-Systems Programming
 ---
 
 ## 🛠 Tech Stack
