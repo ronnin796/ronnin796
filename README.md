@@ -9,7 +9,7 @@
 * Backend Development
 * AI / Machine Learning
 * Automation
-* Systems Programming
+* Cloud Infrastructure
 
 ---
 
